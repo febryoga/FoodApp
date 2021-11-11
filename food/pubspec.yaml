@@ -35,7 +35,7 @@ dependencies:
   fluttertoast: ^8.0.8
   http: ^0.13.4
   moor_flutter: ^4.0.0
-  services: ^0.0.1
+  # services: ^0.0.1
 
 dev_dependencies:
   build_runner: null
